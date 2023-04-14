@@ -12,8 +12,11 @@ Once the game is launched, press F1 for options like saving this ROM as a favori
 
 **ETC LINKS:**
 
-Website ~ https://digitalbox.co.uk/PS/index.php
+Website
+~https://digitalbox.co.uk/PS/index.php
 
-Wiki ~ https://docs.google.com/spreadsheets/d/17rpJqvN_AHTA463Q9S8k2ONGBEZvNM47DWqR6RTqy1w/edit#gid=1067357
+Wiki
+~https://docs.google.com/spreadsheets/d/17rpJqvN_AHTA463Q9S8k2ONGBEZvNM47DWqR6RTqy1w/edit#gid=1067357
 
-Reddit ~ https://www.reddit.com/r/pokescape/
+Reddit
+~https://www.reddit.com/r/pokescape/
